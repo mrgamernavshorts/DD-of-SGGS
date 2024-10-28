@@ -1,0 +1,23 @@
+{
+  "main": "index.html",
+  "name": "daily dose of shri guru granth sahib ji",
+  "description": "satnam waheguru",
+  "version": "0.1.0",
+  "keywords": [ "waheguru", "satnam waheguru" ],
+  "window": {
+    "title": "daily dose of shri guru granth sahib ji",
+    "icon": "images.jpeg",
+    "toolbar": true,
+    "frame": true,
+    "width": 800,
+    "height": 600,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 9999,
+    "max_height": 9999
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
